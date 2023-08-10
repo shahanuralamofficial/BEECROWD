@@ -20,12 +20,12 @@ int main()
         }
     }
 
-    for (int i = 0; i < even_count; i++)
+    for (int i = 0; i < 15; i++)
     {
         cout << "par[" << i << "] = " << par[i] << endl;
     }
 
-    for (int i = 0; i < odd_count; i++)
+    for (int i = 0; i < 15; i++)
     {
         cout << "impar[" << i << "] = " << impar[i] << endl;
     }
